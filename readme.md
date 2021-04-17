@@ -171,4 +171,6 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 PC@LAPTOP-AERDGA7H MINGW64 ~/Desktop/PRACTICAS/HACKATON_02 (master)
 $
 
-RETO 03:
+RETO 03: COMPLETADO
+
+RETO 04: COMPLETADO ACTUALIZADO
